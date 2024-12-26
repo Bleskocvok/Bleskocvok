@@ -2,6 +2,9 @@
 
 C++ / Python / C / Haskell
 
+<div align="center">
+<img alt="avatar" style="width: 64px;" src="https://avatars.githubusercontent.com/u/52820901">
+</div>
 
 ## System utilities
 
