@@ -2,11 +2,11 @@
 
 C++ / Python / C / Haskell
 
+<a href="https://youtu.be/Rd3vwwXArMQ?t=84">
 <div align="center">
-  <a href="#"
     <img alt="avatar" style="width: 64px;" src="https://avatars.githubusercontent.com/u/52820901">
-  </a>
 </div>
+</a>
 
 ## System utilities
 
