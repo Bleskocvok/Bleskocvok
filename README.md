@@ -17,6 +17,7 @@ Enthusiastic about:
 - GPU programming.
 - Functional programming.
 - Open-source.
+- Music and storytelling.
 
 <!-- ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
