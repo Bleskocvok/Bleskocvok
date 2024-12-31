@@ -13,7 +13,7 @@
 ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
 
 Enthusiastic about:
-- Low level programming and high performance.
+- Low-level and high-performance programming.
 - GPU programming.
 - Functional programming.
 - Open-source.
