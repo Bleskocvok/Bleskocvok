@@ -16,7 +16,7 @@ C++ / Python / C / Haskell
 
 ## Utilities
 
-- [`wintea`](https://github.com/Bleskocvok/wintea) – Tea timer reminder for Windows
+- [`wintea`](https://github.com/Bleskocvok/wintea) – Tea timer for Windows
 - [`graphinator`](https://github.com/Bleskocvok/graphinator) – XFCE panel extension for CPU/Memory/… usage
 
 
