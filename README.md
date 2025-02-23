@@ -1,10 +1,6 @@
-# Bleskocvok
-
-<a href="https://youtu.be/Rd3vwwXArMQ?t=84">
-<div align="center">
-    <img alt="avatar" style="width: 64px;" src="https://avatars.githubusercontent.com/u/52820901">
-</div>
-</a>
+<h1><a float="right" href="https://youtu.be/Rd3vwwXArMQ?t=84">
+    <img alt="avatar" style="width: 32px;" src="https://avatars.githubusercontent.com/u/52820901">
+</a> Bleskocvok</h1>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=brown)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&color=red)
