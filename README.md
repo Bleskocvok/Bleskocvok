@@ -34,6 +34,6 @@ Enthusiastic about:
 
 ## Games
 
-- [`frog-engine`](https://github.com/Bleskocvok/frog-engine) – Simple game engine in C++
+- [`frog-engine`](https://github.com/Bleskocvok/frog-engine) – Simple game engine from scratch in C++
 - [`project_jumpy_tanx`](https://github.com/Bleskocvok/project_jumpy_tanx) – Press space to jump and squash enemy tanks
 - [`ultimate-tic-tac-toe`](https://github.com/Bleskocvok/ultimate-tic-tac-toe) – Discord bot for Ultimate Tic Tac Toe
