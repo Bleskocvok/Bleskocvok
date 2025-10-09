@@ -2,7 +2,8 @@
     <img alt="avatar" style="width: 32px;" src="https://avatars.githubusercontent.com/u/52820901">
 </a> Bleskocvok</h1>
 
-[bleskocvok.net](https://bleskocvok.net/)
+<!-- [bleskocvok.net](https://bleskocvok.net/) -->
+[bleskocvok.github.io](https://bleskocvok.github.io/)
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=brown)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&color=red)
