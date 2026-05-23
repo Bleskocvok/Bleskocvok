@@ -10,6 +10,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&color=blue)
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white&color=purple)
 ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
+![Go](https://img.shields.io/badge/go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 Enthusiastic about:
 - Low-level and high-performance programming.
@@ -25,18 +26,18 @@ Enthusiastic about:
 
 ## System utilities
 
-- [`logwrap`](https://github.com/Bleskocvok/logwrap/) – Run a command for each line of output
-- [`spark-prompt`](https://github.com/Bleskocvok/spark_prompt) – Write bash prompts using better syntax
-- [`graphinator-lite`](https://github.com/Bleskocvok/graphinator-lite) – Show usage graph in the terminal
+- <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=c&logoColor=white&color=red" height=18> [`logwrap`](https://github.com/Bleskocvok/logwrap/) – Run a command for each line of output
+- <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=brown" height=18> [`spark-prompt`](https://github.com/Bleskocvok/spark_prompt) – Write bash prompts using better syntax
+- <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=c&logoColor=white&color=red" height=18> [`graphinator-lite`](https://github.com/Bleskocvok/graphinator-lite) – Show usage graph in the terminal
 
 ## Utilities
 
-- [`wintea`](https://github.com/Bleskocvok/wintea) – Tea timer for Windows
-- [`graphinator`](https://github.com/Bleskocvok/graphinator) – XFCE panel extension for CPU and memory usage
+- <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=brown" height=18> [`wintea`](https://github.com/Bleskocvok/wintea) – Tea timer for Windows
+- <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=c&logoColor=white&color=red" height=18> [`graphinator`](https://github.com/Bleskocvok/graphinator) – XFCE panel extension for CPU and memory usage
 
 
 ## Games
 
-- [`frog-engine`](https://github.com/Bleskocvok/frog-engine) – Simple game engine from scratch in C++
-- [`project_jumpy_tanx`](https://github.com/Bleskocvok/project_jumpy_tanx) – Press space to jump and squash enemy tanks
-- [`ultimate-tic-tac-toe`](https://github.com/Bleskocvok/ultimate-tic-tac-toe) – Discord bot for Ultimate Tic Tac Toe
+- <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=brown" height=18> [`frog-engine`](https://github.com/Bleskocvok/frog-engine) – Simple game engine from scratch in C++
+- <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=brown" height=18> [`project_jumpy_tanx`](https://github.com/Bleskocvok/project_jumpy_tanx) – Press space to jump and squash enemy tanks
+- <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=python&logoColor=ffdd54&color=blue" height=18> [`ultimate-tic-tac-toe`](https://github.com/Bleskocvok/ultimate-tic-tac-toe) – Discord bot for Ultimate Tic Tac Toe
